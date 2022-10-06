@@ -1,0 +1,135 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Spiderman",
+      "alterEgo": "british actor",
+      "id": 4
+    },
+    {
+      "name": "new Hero",
+      "alterEgo": "Pakistani",
+      "id": 5
+    },
+    {
+      "name": "Catwoman",
+      "alterEgo": "any actor",
+      "id": 6
+    },
+    {
+      "name": "hero name 1",
+      "alterEgo": "hero alter ego 1",
+      "id": 7
+    },
+    {
+      "name": "hero name 2",
+      "alterEgo": "hero alter ego 2",
+      "id": 8
+    },
+    {
+      "name": "name 3",
+      "alterEgo": "ego 3",
+      "id": 9
+    },
+    {
+      "name": "name 4",
+      "alterEgo": "ego 4",
+      "id": 10
+    },
+    {
+      "name": "name 5",
+      "alterEgo": "ego 5",
+      "id": 11
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "aemun@gmail.com",
+      "channelId": "codevolution"
+    },
+    {
+      "id": "umeaemun@gmail.com",
+      "channelId": "reactStudy"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    },
+    {
+      "id": "reactStudy",
+      "courses": [
+        "react-basics",
+        "hooks",
+        "props"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
